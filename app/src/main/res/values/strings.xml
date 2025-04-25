@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noctale</string>
+    <string name="home_label">Trang chủ</string>
+    <string name="library_label">Thư viện</string>
+    <string name="search_label">Tìm kiếm</string>
+    <string name="profile_label">Hồ sơ</string>
+</resources>
